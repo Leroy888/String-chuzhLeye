@@ -53,8 +53,8 @@ LogicController::LogicController(QObject *parent) : QObject(parent)
     {
         m_pVELCahceImages[i] = new char[1920*1200];
     }
-    connect(&DLClientInterface::Instance(), SIGNAL(sig_Img(QImage,bool,vector<string>,vector<string>,int)),
-            this, SLOT(SlotImage(QImage,bool,vector<string>,vector<string>,int)));
+    connect(&DLClientInterface::Instance(), SIGNAL(sig_Img(QImage,bool,vector<string>,vector<string>,int,vector<string>)),
+            this, SLOT(SlotImage(QImage,bool,vector<string>,vector<string>,int,vector<string>)));
     connect(&DLClientInterface::Instance(), SIGNAL(sig_Ai_error()), this, SLOT(slot_Ai_error()));
 
 }
@@ -1209,7 +1209,7 @@ void LogicController::slot_Ai_error()
     m_Ai_Open = false;
 }
 
-void LogicController::SlotImage(const QImage &image, bool bOK, vector<string> ElDefect, vector<string> ElPosition, int nIndex)
+void LogicController::SlotImage(const QImage &image, bool bOK, vector<string> ElDefect, vector<string> ElPosition, int nIndex, vector<string> resDefect)
 {
     m_bAi_Ok = bOK;
 
@@ -1222,11 +1222,13 @@ void LogicController::SlotImage(const QImage &image, bool bOK, vector<string> El
 
         m_AISaveDefect.clear();
         m_AISavePosition.clear();
+        m_resDefect.clear();
     }
 //    vector<string> m_AISaveDefect;
 //    vector<string> m_AISavePosition;
     m_AISaveDefect.insert(m_AISaveDefect.end(),ElDefect.begin(),ElDefect.end());
     m_AISavePosition.insert(m_AISavePosition.end(),ElPosition.begin(),ElPosition.end());
+    m_resDefect.insert(m_resDefect.end(),resDefect.begin(), resDefect.end());
 
     Data * pObj = m_SystemModel.GetObj();
     QPainter painter(&m_ElImage);
@@ -1248,7 +1250,7 @@ void LogicController::SlotImage(const QImage &image, bool bOK, vector<string> El
     m_ELUIObj.OnUpDateImage(&m_ElImage, m_SAB=="A");
     //  OnAi_save(m_ElImage,ElDefect,ElPosition,nIndex);
   //  OnAidefect(bOK);  //Ai自动分选,注释掉，添加一个定时器调用该函数，是为了实现，3~5秒后，没有人工判断的情况下，定时器启动，调用该函数实现自动判断
-    elCmdTimer->start(5);
+    elCmdTimer->start(0.5);
 }
 
 void LogicController::mkdir_path(QString path)   //
@@ -1360,20 +1362,20 @@ void LogicController::OnAi_save(const QImage &image, vector<string> ElDefect, ve
         bAiOk = false;
         StringEL_ID = StringEL_ID + "/NG/";
         m_ELUIObj.OnTotalNG();
-        if(getElDefect(ElDefect, "隐裂") && getElDefect(ElDefect, "虚焊"))
+        if(getElDefect(m_resDefect, "隐裂") && getElDefect(m_resDefect, "虚焊"))
         {
             m_isYl = true;
             m_isXh = true;
             strNgDefPath = StringEL_ID + QStringLiteral("/YL&XH/");
             m_ELUIObj.addYlAndXhNum();
         }
-        else if(getElDefect(ElDefect, "隐裂"))
+        else if(getElDefect(m_resDefect, "隐裂"))
         {
             m_isYl = true;
             strNgDefPath = StringEL_ID + QStringLiteral("/YL/");
             m_ELUIObj.addYlNum();
         }
-        else if(getElDefect(ElDefect, "虚焊"))
+        else if(getElDefect(m_resDefect, "虚焊"))
         {
             m_isXh = true;
             strNgDefPath = StringEL_ID + QStringLiteral("/XH/");

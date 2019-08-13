@@ -49,32 +49,32 @@ NetDataAiListenerThread::NetDataAiListenerThread(Data *data,int index,QNetworkAc
 //    m_Maps[24] = QString::fromUtf8("黑角");//
 //    m_Maps[25] = QString::fromUtf8("污染");
 
-        m_Maps[1] = QString::fromUtf8("隐裂");//
-        m_Maps[2] = QString::fromUtf8("隐裂");
-        m_Maps[3] =QString::fromUtf8("隐裂");
-        m_Maps[4] = QString::fromUtf8("隐裂");
-        m_Maps[5] = QString::fromUtf8("隐裂");
-        m_Maps[6] = QString::fromUtf8("隐裂");
-        m_Maps[7] = QString::fromUtf8("虚焊");
-        m_Maps[8] = QString::fromUtf8("虚焊");
-        m_Maps[9] = QString::fromUtf8("虚焊");
-        m_Maps[10] = QString::fromUtf8("虚焊");
-        m_Maps[11] = QString::fromUtf8("其他");
-        m_Maps[12] = QString::fromUtf8("其他");
-        m_Maps[13] = QString::fromUtf8("其他");
-        m_Maps[14] = QString::fromUtf8("其他");//
-        m_Maps[15] = QString::fromUtf8("其他");//
+    m_Maps[1] = QStringLiteral("小叉隐");//
+    m_Maps[2] = QStringLiteral("线隐");
+    m_Maps[3] = QStringLiteral("大隐");
+    m_Maps[4] = QStringLiteral("片隐");
+    m_Maps[5] = QStringLiteral("破片");
+    m_Maps[6] = QStringLiteral("隐裂不");
+    m_Maps[7] = QStringLiteral("点隐");
+    m_Maps[8] = QStringLiteral("虚焊");
+    m_Maps[9] = QStringLiteral("轻虚");
+    m_Maps[10] = QStringLiteral("非虚");
+    m_Maps[11] = QStringLiteral("虚焊不");
+    m_Maps[12] = QStringLiteral("边虚");
+    m_Maps[13] = QStringLiteral("黑角边");
+    m_Maps[14] = QStringLiteral("明暗片");//
+    m_Maps[15] = QStringLiteral("不上电");//
 
-        m_Maps[16] = QString::fromUtf8("其他");
-        m_Maps[17] = QString::fromUtf8("其他");
-        m_Maps[18] = QString::fromUtf8("其他");
-        m_Maps[19] = QString::fromUtf8("其他");
-        m_Maps[20] = QString::fromUtf8("其他");
-        m_Maps[21] = QString::fromUtf8("其他");
-        m_Maps[22] = QString::fromUtf8("其他");
-        m_Maps[23] = QString::fromUtf8("其他");
-        m_Maps[24] = QString::fromUtf8("其他");//
-        m_Maps[25] = QString::fromUtf8("其他");
+    m_Maps[16] = QStringLiteral("明暗突变");
+    m_Maps[17] = QStringLiteral("明暗渐变");
+    m_Maps[18] = QStringLiteral("短路");
+    m_Maps[19] = QStringLiteral("黑边");
+    m_Maps[20] = QStringLiteral("断栅快");
+    m_Maps[21] = QStringLiteral("断栅");
+    m_Maps[22] = QStringLiteral("划伤");
+    m_Maps[23] = QStringLiteral("吸盘印");
+    m_Maps[24] = QStringLiteral("黑角");//
+    m_Maps[25] = QStringLiteral("污染");
 
 }
 
@@ -154,7 +154,7 @@ void NetDataAiListenerThread::run()
 
             drawImage(vData);
 
-            emit sig_Image(m_Image, bOK, m_ElDefect, m_ElPosition, m_nIndex);
+            emit sig_Image(m_Image, bOK, m_ElDefect, m_ElPosition, m_nIndex, m_resDefect);
         }
     }
     else
@@ -243,14 +243,28 @@ void NetDataAiListenerThread::drawImage(const vector<DATA> &vList)
         {
             a = a+m_num;
         }
+        string text;
+        if(data.nClassID <7)
+        {
+            text = "隐裂";
+        }
+        else if(data.nClassID >= 7 && data.nClassID < 11)
+        {
+            text = "虚焊";
+        }
+        else if(data.nClassID >= 11 && data.nClassID < 21)
+        {
+            text = "其他";
+        }
+        m_resDefect.push_back(text);
         m_ElDefect.push_back(m_Maps[data.nClassID].toStdString());
         m_ElPosition.push_back(QString("[%1]").arg(QString::number(a+1)).toStdString());
 
-        QString strText = m_Maps[data.nClassID];
-        strText+="(";
-        strText+=QString::number(data.fScore,'g',6);
-        strText +=") --";
-        strText += QString::number(data.nLen);
+//        QString strText = m_Maps[data.nClassID];
+//        strText+="(";
+//        strText+=QString::number(data.fScore,'g',6);
+//        strText +=") --";
+//        strText += QString::number(data.nLen);
 
     //    painter.drawText(QPoint(data.x1-30,data.y1 -30), strText);
 

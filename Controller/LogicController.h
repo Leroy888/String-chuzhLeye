@@ -203,6 +203,7 @@ private:
 
     vector<string> m_AISaveDefect;
     vector<string> m_AISavePosition;
+    vector<string> m_resDefect;
 
     int AI_EL_num = 1;
     int AI_EL_NGnum = 1;
@@ -357,7 +358,7 @@ public slots:
       //保存完毕
       void  slot_Save_Over(QString strPath);
 
-      void SlotImage(const QImage &image, bool bOK, vector<string> ElDefect, vector<string> ElPosition, int nIndex);
+      void SlotImage(const QImage &image, bool bOK, vector<string> ElDefect, vector<string> ElPosition, int nIndex, vector<string> resDefect);
       void slot_Ai_error();
 
 private:

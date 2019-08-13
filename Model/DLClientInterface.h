@@ -1,4 +1,4 @@
-#ifndef DLCLIENTINTERFACE_H
+﻿#ifndef DLCLIENTINTERFACE_H
 #define DLCLIENTINTERFACE_H
 #include "NetDataAiListenerThread.h"
 #include <QNetworkAccessManager>
@@ -21,10 +21,10 @@ public:
 
 
 public slots:
-    void slot_Image(const QImage & Image,bool bOK,vector<string> m_ElDefect,vector<string> m_ElPosition,int index);
+    void slot_Image(const QImage & Image, bool bOK, vector<string> m_ElDefect, vector<string> m_ElPosition, int index, vector<string>);
     void slot_Ai_error();
 signals:
-    void sig_Img(const QImage &image,bool bOK,vector<string> m_ElDefect,vector<string> m_ElPosition,int index);
+    void sig_Img(const QImage &image,bool bOK,vector<string> m_ElDefect,vector<string> m_ElPosition,int index, vector<string>);
     void sig_Ai_error();
 private:
    QNetworkAccessManager * m_pNetMgr;

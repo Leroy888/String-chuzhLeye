@@ -20,8 +20,8 @@ void DLClientInterface::OnPostImage(Data *data,int index, const QImage &image2, 
     qRegisterMetaType<vector<string>>("vector<string>");
     QByteArray ba;
     NetDataAiListenerThread * thread = new NetDataAiListenerThread(data, index, m_pNetMgr, image2, ba, strUrl, 18000, w_num);
-    connect(thread, SIGNAL(sig_Image(QImage, bool, vector<string>, vector<string>, int)), this,
-            SLOT(slot_Image(QImage, bool, vector<string>, vector<string>, int)), Qt::QueuedConnection);
+    connect(thread, SIGNAL(sig_Image(QImage, bool, vector<string>, vector<string>, int, vector<string>)), this,
+            SLOT(slot_Image(QImage, bool, vector<string>, vector<string>, int, vector<string>)), Qt::QueuedConnection);
     //20190710
     connect(thread, SIGNAL(sig_Ai_error()), this, SLOT(slot_Ai_error()), Qt::QueuedConnection);
 
@@ -33,9 +33,9 @@ void DLClientInterface::slot_Ai_error()
     emit sig_Ai_error();
 }
 
-void DLClientInterface::slot_Image(const QImage &Image, bool bOK, vector<string> m_ElDefect, vector<string> m_ElPosition, int index)
+void DLClientInterface::slot_Image(const QImage &Image, bool bOK, vector<string> m_ElDefect, vector<string> m_ElPosition, int index,vector<string> resDefect)
 {
     m_Image = Image.copy();
-    emit sig_Img(m_Image, bOK, m_ElDefect, m_ElPosition, index);
+    emit sig_Img(m_Image, bOK, m_ElDefect, m_ElPosition, index, resDefect);
 }
 

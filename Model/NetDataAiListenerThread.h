@@ -1,4 +1,4 @@
-#ifndef NETDATAAILISTENERTHREAD_H
+﻿#ifndef NETDATAAILISTENERTHREAD_H
 #define NETDATAAILISTENERTHREAD_H
 #include <QThread>
 #include <QNetworkAccessManager>
@@ -43,7 +43,7 @@ protected slots:
 
 signals:
     void sig_waitTimeout();
-    void sig_Image(const QImage & img,bool bOK,vector<string> m_ElDefect,vector<string> m_ElPosition,int index);
+    void sig_Image(const QImage & img,bool bOK,vector<string> m_ElDefect,vector<string> m_ElPosition,int index, vector<string> resDefect);
     void sig_Ai_error();
 private:
     QNetworkAccessManager *mManager;
@@ -55,6 +55,7 @@ private:
     QString     m_strUrl;
     vector<string> m_ElDefect;
     vector<string> m_ElPosition;
+    vector<string> m_resDefect;
     QMap<int,QString>    m_Maps;
     int         m_nIndex;
     Data *m_data;
