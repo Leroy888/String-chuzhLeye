@@ -1,0 +1,667 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="View\AuthorityMes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\CommandWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\ControlModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MesTool\CurlFtpHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller\DebugController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\DebugItemWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\DebugSelectCirc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\DebugSelectView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\DefectBtnModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\EFDrawWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\EFStateBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EFStringEL_Module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EFStringEL_Plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\ELCmdAction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\ELMainWindowObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\FileNameDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MesTool\JKMesClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller\LogicController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\Login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\LookCmdAction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\LookMainWindowObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\MES_Dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\MesLogin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\MesObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\NGDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\NXDockWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\NXDockWidgetTabBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\NXDockWidgetTabButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\NXDockWidgetTitle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\NXMainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\NetDataListenerThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\OPTView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\OptRuler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\ScanCodeObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\SeeView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\SeeViewGraphic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\SeeWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\SeeWidgetEL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\StartAction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\StateColor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\SysSetAction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\TabbedWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\TestForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="View\TotalAction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\TotolModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\WebEChartObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\WebServiceHelp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller\WorkerOriSave.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\qtsoap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller\savewoker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MesTool\soapC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MesTool\soapClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MesTool\stdsoap2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller\woker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="View\AuthorityMes.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\CommandWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="Model\ControlModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MesTool\CurlFtpHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Controller\DebugController.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\DebugItemWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\DebugSelectCirc.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\DebugSelectView.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Model\DefectBtnModel.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\EFDrawWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\EFStateBar.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="EFStringEL_Module.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EFStringEL_Plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="View\ELCmdAction.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\ELMainWindowObj.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\FileNameDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="MesTool\JKMesClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Controller\LogicController.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\Login.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\LookCmdAction.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\LookMainWindowObj.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\MES_Dialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\MesLogin.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Model\MesObj.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\NGDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\NXDockWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\NXDockWidgetTabBar.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\NXDockWidgetTabButton.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\NXDockWidgetTitle.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\NXMainWindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Model\NetDataListenerThread.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\OPTView.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\OptRuler.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Model\ScanCodeObj.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\SeeView.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\SeeViewGraphic.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\SeeWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\SeeWidgetEL.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="MesTool\ServiceSoap.nsmap">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="View\StartAction.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\StateColor.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\SysSetAction.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\TabbedWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\TestForm.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="View\TotalAction.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="Model\TotolModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Model\WebEChartObj.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Model\WebServiceHelp.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Controller\WorkerOriSave.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Model\qtsoap.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Controller\savewoker.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="MesTool\soapH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MesTool\soapStub.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MesTool\stdsoap2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Controller\woker.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    
+    
+    
+    
+    
+    
+    
+    
+    <ClInclude Include="ui_AuthorityMes.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_DebugSelectCirc.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_EFStateBar.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_ELCmdAction.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_FileNameDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_Login.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_LookCmdAction.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_MES_Dialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_MesLogin.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_NGDialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_NXMainWindow.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_SeeWidget.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_SeeWidgetEL.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_StartAction.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_StateColor.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_SysSetAction.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_TestForm.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_TotalAction.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="View\AuthorityMes.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\DebugSelectCirc.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\EFStateBar.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\ELCmdAction.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\FileNameDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\Login.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\LookCmdAction.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\MES_Dialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\MesLogin.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\NGDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\NXMainWindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\SeeWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\SeeWidgetEL.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\StartAction.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\StateColor.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\SysSetAction.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\TestForm.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="View\TotalAction.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image\LOGO.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\bg.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\close_dockwidget_hover.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\close_dockwidget_normal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\close_dockwidget_pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Html\echarts.min.js">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\menu_dockwidget_hover.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\menu_dockwidget_normal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\menu_dockwidget_pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Html\pie.html">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\pin_dockwidget_hover.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\pin_dockwidget_normal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\pin_dockwidget_pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Html\qwebchannel.js">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="resources.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="Resources\Image\save.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\saveother.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\start_0.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\start_1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\stop_0.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\stop_1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\unpin_dockwidget_hover.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\unpin_dockwidget_normal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resources\Image\unpin_dockwidget_pressed.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

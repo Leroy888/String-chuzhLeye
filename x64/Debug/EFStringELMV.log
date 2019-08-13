@@ -1,0 +1,23 @@
+﻿  woker.cpp
+Controller\woker.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\efgui\efstringelmv\controller\woker.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\Dependencies\opencv\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\Dependencies\opencv\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\Dependencies\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\Dependencies\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\Dependencies\opencv\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\EFGui\EFStringELMV\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\EFGui\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\EFGui\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参
+D:\code\EFGui\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参
+D:\code\EFGui\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\EFGui\EFStringELMV\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\EFGui\EFStringELMV\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\EFComm/Unity/IOStruct.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  EFStringELMV.vcxproj -> D:\code\EFGui\EFStringELMV\..\..\_Out\Debug\EFStringEL_d.dll
+  EFStringELMV.vcxproj -> ..\..\_Out\Debug\EFStringEL_d.pdb (Full PDB)

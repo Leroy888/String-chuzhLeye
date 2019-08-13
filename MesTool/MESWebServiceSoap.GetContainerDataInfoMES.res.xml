@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://www.w3.org/2003/05/soap-envelope"
+    xmlns:SOAP-ENC="http://www.w3.org/2003/05/soap-encoding"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:ns1="http://tempuri.org/">
+ <SOAP-ENV:Body>
+  <ns1:GetContainerDataInfoMESResponse>
+   <ns1:GetContainerDataInfoMESResult>
+    <ns1:SubmitResult>
+     <ns1:ResultCode></ns1:ResultCode>
+     <ns1:ResultMsg></ns1:ResultMsg>
+     <ns1:ResultTable>
+
+      <!-- extensibility element(s) -->
+     </ns1:ResultTable>
+     <ns1:ResultFilename></ns1:ResultFilename>
+    </ns1:SubmitResult>
+   </ns1:GetContainerDataInfoMESResult>
+  </ns1:GetContainerDataInfoMESResponse>
+ </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

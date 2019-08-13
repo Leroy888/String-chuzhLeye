@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://www.w3.org/2003/05/soap-envelope"
+    xmlns:SOAP-ENC="http://www.w3.org/2003/05/soap-encoding"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:ns1="http://tempuri.org/">
+ <SOAP-ENV:Body>
+   <ns1:SafetyInfoMoveStd>
+    <ns1:TestDate>2018-04-08T07:43:20Z</ns1:TestDate>
+    <ns1:LotSN></ns1:LotSN>
+    <ns1:Current></ns1:Current>
+    <ns1:InsulationResistance></ns1:InsulationResistance>
+    <ns1:GroundResistance></ns1:GroundResistance>
+    <ns1:TestResult></ns1:TestResult>
+    <ns1:IPAddress></ns1:IPAddress>
+   </ns1:SafetyInfoMoveStd>
+ </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

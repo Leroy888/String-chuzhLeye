@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Dock">
+        <file>Resources/Image/close_dockwidget_hover.png</file>
+        <file>Resources/Image/close_dockwidget_normal.png</file>
+        <file>Resources/Image/close_dockwidget_pressed.png</file>
+        <file>Resources/Image/menu_dockwidget_hover.png</file>
+        <file>Resources/Image/menu_dockwidget_normal.png</file>
+        <file>Resources/Image/menu_dockwidget_pressed.png</file>
+        <file>Resources/Image/pin_dockwidget_hover.png</file>
+        <file>Resources/Image/pin_dockwidget_normal.png</file>
+        <file>Resources/Image/pin_dockwidget_pressed.png</file>
+        <file>Resources/Image/unpin_dockwidget_hover.png</file>
+        <file>Resources/Image/unpin_dockwidget_normal.png</file>
+        <file>Resources/Image/unpin_dockwidget_pressed.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Resources/Image/LOGO.png</file>
+        <file>Resources/Image/start_0.png</file>
+        <file>Resources/Image/start_1.png</file>
+        <file>Resources/Image/stop_0.png</file>
+        <file>Resources/Image/stop_1.png</file>
+        <file>Resources/Image/bg.png</file>
+        <file>Resources/Image/save.png</file>
+        <file>Resources/Image/saveother.png</file>
+    </qresource>
+    <qresource prefix="/web">
+        <file>Resources/Html/echarts.min.js</file>
+        <file>Resources/Html/pie.html</file>
+        <file>Resources/Html/qwebchannel.js</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NGDialog</class>
+ <widget class="QDialog" name="NGDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>960</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <layout class="QVBoxLayout" name="verticalLayout" stretch="10,6,1">
+     <item>
+      <widget class="TabbedWidget" name="w_xy" native="true"/>
+     </item>
+     <item>
+      <widget class="CommandWidget" name="w_cmd" native="true"/>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <spacer name="horizontalSpacer">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>40</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item>
+        <widget class="QPushButton" name="pushButton">
+         <property name="minimumSize">
+          <size>
+           <width>400</width>
+           <height>80</height>
+          </size>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton { 
+                            color:#ffffff;
+                            background-color:#424956;
+                            border-style: outset;
+                            border-width:2px;
+                            border-radius:10px;
+                            border-color: beige;
+                            font: bold 16px;
+                            padding:6px;
+                            }
+                            QPushButton:hover{
+                            color:#ffffff;
+                                background-color:#ff5500
+                            }
+                            QPushButton:pressed{
+                            color:#ffffff;
+                                background-color:#ff5500
+                            }
+                            QPushButton:!enabled{
+									
+								color: rgb(235, 235, 235);
+								
+	background-color: rgb(143, 143, 143);
+							}</string>
+         </property>
+         <property name="text">
+          <string>确定</string>
+         </property>
+         <property name="shortcut">
+          <string>Space</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>TabbedWidget</class>
+   <extends>QWidget</extends>
+   <header>TabbedWidget.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>CommandWidget</class>
+   <extends>QWidget</extends>
+   <header>CommandWidget.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

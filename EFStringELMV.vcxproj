@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{BC30F427-459E-3627-9E13-A93C2BE14C7F}</ProjectGuid>
+    <RootNamespace>EFStringELMV</RootNamespace>
+    <Keyword>Qt4VSv1.0</Keyword>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <PlatformToolSet>v140</PlatformToolSet>
+    <OutputDirectory>..\..\_Out\Release\</OutputDirectory>
+    <ATLMinimizesCRunTimeLibraryUsage>false</ATLMinimizesCRunTimeLibraryUsage>
+    <CharacterSet>NotSet</CharacterSet>
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <IntermediateDirectory>release\</IntermediateDirectory>
+    <PrimaryOutput>EFStringEL</PrimaryOutput>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <PlatformToolSet>v140</PlatformToolSet>
+    <OutputDirectory>..\..\_Out\Debug\</OutputDirectory>
+    <ATLMinimizesCRunTimeLibraryUsage>false</ATLMinimizesCRunTimeLibraryUsage>
+    <CharacterSet>NotSet</CharacterSet>
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <IntermediateDirectory>debug\</IntermediateDirectory>
+    <PrimaryOutput>EFStringEL_d</PrimaryOutput>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <PropertyGroup Condition="'$(QtMsBuild)'=='' or !Exists('$(QtMsBuild)\qt.targets')">
+    <QtMsBuild>$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>
+  </PropertyGroup>
+  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') or !Exists('$(QtMsBuild)\qt.props')">
+    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />
+  </Target>
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt.props')">
+    <Import Project="$(QtMsBuild)\qt.props" />
+  </ImportGroup>
+  <ImportGroup Label="ExtensionSettings" />
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">..\..\_Out\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">EFStringEL</TargetName>
+    <IgnoreImportLibrary Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</IgnoreImportLibrary>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">..\..\_Out\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">EFStringEL_d</TargetName>
+    <IgnoreImportLibrary Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</IgnoreImportLibrary>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>.\GeneratedFiles\$(ConfigurationName);.\GeneratedFiles;.;..\..;..\..\Dependencies;..\EFGuiLib;..\..\Dependencies\opencv\include;..\..\Dependencies\libcurl\include;$(QTDIR)\include;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtXml;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSerialPort;$(QTDIR)\include\QtCore;release;$(QTDIR)\mkspecs\win32-msvc2015;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>-Zc:strictStrings -Zc:throwingNew -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 %(AdditionalOptions)</AdditionalOptions>
+      <AssemblerListingLocation>release\</AssemblerListingLocation>
+      <BrowseInformation>false</BrowseInformation>
+      <DebugInformationFormat>None</DebugInformationFormat>
+      <DisableSpecificWarnings>4577;4467;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <Optimization>MaxSpeed</Optimization>
+      <PreprocessorDefinitions>_WINDOWS;WIN32;WIN64;UMBCS;CURL_STATICLIB;QT_NO_DEBUG;QT_WIDGETS_LIB;QT_GUI_LIB;QT_XML_LIB;QT_NETWORK_LIB;QT_SERIALPORT_LIB;QT_CORE_LIB;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessToFile>false</PreprocessToFile>
+      <ProgramDataBaseFileName>$(IntDir)vc$(PlatformToolsetVersion).pdb</ProgramDataBaseFileName>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <WarningLevel>Level3</WarningLevel>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>D:\code\Dependencies\opencv\x64\vc14\lib\opencv_world320.lib;D:\code\Dependencies\libcurl\lib\libcurl_a.lib;$(QTDIR)\lib\Qt5Widgets.lib;$(QTDIR)\lib\Qt5Gui.lib;$(QTDIR)\lib\Qt5Xml.lib;$(QTDIR)\lib\Qt5Network.lib;$(QTDIR)\lib\Qt5SerialPort.lib;$(QTDIR)\lib\Qt5Core.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(QTDIR)\lib;D:\code\Dependencies\opencv\x64\vc14\lib;D:\code\Dependencies\libcurl\lib;D:\code\_Out\Release;$(QTDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/debug /opt:ref %(AdditionalOptions)</AdditionalOptions>
+      <DataExecutionPrevention>true</DataExecutionPrevention>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <GenerateMapFile>true</GenerateMapFile>
+      <IgnoreImportLibrary>true</IgnoreImportLibrary>
+      <LinkDLL>true</LinkDLL>
+      <LinkIncremental>false</LinkIncremental>
+      <OutputFile>$(OutDir)\EFStringEL.dll</OutputFile>
+      <RandomizedBaseAddress>true</RandomizedBaseAddress>
+      <SubSystem>Windows</SubSystem>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+    </Link>
+    <Midl>
+      <DefaultCharType>Unsigned</DefaultCharType>
+      <EnableErrorChecks>None</EnableErrorChecks>
+      <WarningLevel>0</WarningLevel>
+    </Midl>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_WINDOWS;WIN32;WIN64;UMBCS;CURL_STATICLIB;QT_NO_DEBUG;QT_WIDGETS_LIB;QT_GUI_LIB;QT_XML_LIB;QT_NETWORK_LIB;QT_SERIALPORT_LIB;QT_CORE_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <QtMoc>
+      <QTDIR>$(QTDIR)</QTDIR>
+      <OutputFile>.\GeneratedFiles\$(ConfigurationName)\moc_%(Filename).cpp</OutputFile>
+      <Define>WIN32;WIN64;UMBCS;CURL_STATICLIB;QT_NO_DEBUG;QT_WIDGETS_LIB;QT_GUI_LIB;QT_XML_LIB;QT_NETWORK_LIB;QT_SERIALPORT_LIB;QT_CORE_LIB</Define>
+      <CompilerFlavor>msvc</CompilerFlavor>
+      <Include>$(Configuration)/moc_predefs.h</Include>
+      <ExecutionDescription>Moc'ing %(Identity)...</ExecutionDescription>
+      <InputFile>%(FullPath)</InputFile>
+      <DynamicSource>output</DynamicSource>
+      <IncludePath>.\GeneratedFiles\$(ConfigurationName);.\GeneratedFiles;$(QTDIR)\mkspecs/win32-msvc2015;.;D:/code;D:/code/Dependencies;D:/code/EFGui/EFGuiLib;D:/code/Dependencies/opencv/include;D:/code/Dependencies/libcurl/include;$(QTDIR)\include;$(QTDIR)\include/QtWidgets;$(QTDIR)\include/QtGui;$(QTDIR)\include/QtANGLE;$(QTDIR)\include/QtXml;$(QTDIR)\include/QtNetwork;$(QTDIR)\include/QtSerialPort;$(QTDIR)\include/QtCore;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\INCLUDE;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt</IncludePath>
+    </QtMoc>
+    <QtRcc>
+      <InitFuncName>resources</InitFuncName>
+      <QTDIR>$(QTDIR)</QTDIR>
+      <OutputFile>.\GeneratedFiles\qrc_%(Filename).cpp</OutputFile>
+      <ExecutionDescription>Rcc'ing %(Identity)...</ExecutionDescription>
+      <Compression>default</Compression>
+      <InputFile>%(FullPath)</InputFile>
+    </QtRcc>
+    <QtUic>
+      <InputFile>%(FullPath)</InputFile>
+      <ExecutionDescription>Uic'ing %(Identity)...</ExecutionDescription>
+      <OutputFile>.\GeneratedFiles\ui_%(Filename).h</OutputFile>
+      <QTDIR>$(QTDIR)</QTDIR>
+    </QtUic>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>.\GeneratedFiles\$(ConfigurationName);.\GeneratedFiles;.;..\..;..\..\Dependencies;..\EFGuiLib;..\..\Dependencies\opencv\include;..\..\Dependencies\libcurl\include;$(QTDIR)\include;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtXml;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSerialPort;$(QTDIR)\include\QtCore;debug;$(QTDIR)\mkspecs\win32-msvc2015;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>-Zc:strictStrings -Zc:throwingNew -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 %(AdditionalOptions)</AdditionalOptions>
+      <AssemblerListingLocation>debug\</AssemblerListingLocation>
+      <BrowseInformation>false</BrowseInformation>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4577;4467;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_WINDOWS;WIN32;WIN64;UMBCS;CURL_STATICLIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_XML_LIB;QT_NETWORK_LIB;QT_SERIALPORT_LIB;QT_CORE_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessToFile>false</PreprocessToFile>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <WarningLevel>Level3</WarningLevel>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <ProgramDataBaseFileName>$(IntDir)vc$(PlatformToolsetVersion).pdb</ProgramDataBaseFileName>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>D:\code\Dependencies\opencv\x64\vc14\lib\opencv_world320.lib;D:\code\Dependencies\libcurl\lib\libcurl_a_debug.lib;$(QTDIR)\lib\Qt5Widgetsd.lib;$(QTDIR)\lib\Qt5Guid.lib;$(QTDIR)\lib\Qt5Xmld.lib;$(QTDIR)\lib\Qt5Networkd.lib;$(QTDIR)\lib\Qt5SerialPortd.lib;$(QTDIR)\lib\Qt5Cored.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(QTDIR)\lib;D:\code\Dependencies\opencv\x64\vc14\lib;D:\code\Dependencies\libcurl\lib;D:\code\_Out\Debug;$(QTDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <DataExecutionPrevention>true</DataExecutionPrevention>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreImportLibrary>true</IgnoreImportLibrary>
+      <LinkDLL>true</LinkDLL>
+      <OutputFile>$(OutDir)\EFStringEL_d.dll</OutputFile>
+      <RandomizedBaseAddress>true</RandomizedBaseAddress>
+      <SubSystem>Windows</SubSystem>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+    </Link>
+    <Midl>
+      <DefaultCharType>Unsigned</DefaultCharType>
+      <EnableErrorChecks>None</EnableErrorChecks>
+      <WarningLevel>0</WarningLevel>
+    </Midl>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_WINDOWS;WIN32;WIN64;UMBCS;CURL_STATICLIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_XML_LIB;QT_NETWORK_LIB;QT_SERIALPORT_LIB;QT_CORE_LIB;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <QtMoc>
+      <QTDIR>$(QTDIR)</QTDIR>
+      <OutputFile>.\GeneratedFiles\$(ConfigurationName)\moc_%(Filename).cpp</OutputFile>
+      <Define>WIN32;WIN64;UMBCS;CURL_STATICLIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_XML_LIB;QT_NETWORK_LIB;QT_SERIALPORT_LIB;QT_CORE_LIB</Define>
+      <CompilerFlavor>msvc</CompilerFlavor>
+      <Include>$(Configuration)/moc_predefs.h</Include>
+      <ExecutionDescription>Moc'ing %(Identity)...</ExecutionDescription>
+      <InputFile>%(FullPath)</InputFile>
+      <DynamicSource>output</DynamicSource>
+      <IncludePath>.\GeneratedFiles\$(ConfigurationName);.\GeneratedFiles;$(QTDIR)\mkspecs/win32-msvc2015;.;D:/code;D:/code/Dependencies;D:/code/EFGui/EFGuiLib;D:/code/Dependencies/opencv/include;D:/code/Dependencies/libcurl/include;$(QTDIR)\include;$(QTDIR)\include/QtWidgets;$(QTDIR)\include/QtGui;$(QTDIR)\include/QtANGLE;$(QTDIR)\include/QtXml;$(QTDIR)\include/QtNetwork;$(QTDIR)\include/QtSerialPort;$(QTDIR)\include/QtCore;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\INCLUDE;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt</IncludePath>
+    </QtMoc>
+    <QtRcc>
+      <QTDIR>$(QTDIR)</QTDIR>
+      <ExecutionDescription>Rcc'ing %(Identity)...</ExecutionDescription>
+      <Compression>default</Compression>
+      <InitFuncName>resources</InitFuncName>
+      <OutputFile>.\GeneratedFiles\qrc_%(Filename).cpp</OutputFile>
+      <InputFile>%(FullPath)</InputFile>
+    </QtRcc>
+    <QtUic>
+      <InputFile>%(FullPath)</InputFile>
+      <ExecutionDescription>Uic'ing %(Identity)...</ExecutionDescription>
+      <OutputFile>.\GeneratedFiles\ui_%(Filename).h</OutputFile>
+      <QTDIR>$(QTDIR)</QTDIR>
+    </QtUic>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="View\AuthorityMes.cpp" />
+    <ClCompile Include="View\CommandWidget.cpp" />
+    <ClCompile Include="Model\ControlModel.cpp" />
+    <ClCompile Include="MesTool\CurlFtpHelper.cpp" />
+    <ClCompile Include="Controller\DebugController.cpp" />
+    <ClCompile Include="View\DebugItemWidget.cpp" />
+    <ClCompile Include="View\DebugSelectCirc.cpp" />
+    <ClCompile Include="View\DebugSelectView.cpp" />
+    <ClCompile Include="Model\DefectBtnModel.cpp" />
+    <ClCompile Include="View\EFDrawWidget.cpp" />
+    <ClCompile Include="View\EFStateBar.cpp" />
+    <ClCompile Include="EFStringEL_Module.cpp" />
+    <ClCompile Include="EFStringEL_Plugin.cpp" />
+    <ClCompile Include="View\ELCmdAction.cpp" />
+    <ClCompile Include="View\ELMainWindowObj.cpp" />
+    <ClCompile Include="View\FileNameDialog.cpp" />
+    <ClCompile Include="MesTool\JKMesClient.cpp" />
+    <ClCompile Include="Controller\LogicController.cpp" />
+    <ClCompile Include="View\Login.cpp" />
+    <ClCompile Include="View\LookCmdAction.cpp" />
+    <ClCompile Include="View\LookMainWindowObj.cpp" />
+    <ClCompile Include="View\MES_Dialog.cpp" />
+    <ClCompile Include="View\MesLogin.cpp" />
+    <ClCompile Include="Model\MesObj.cpp" />
+    <ClCompile Include="View\NGDialog.cpp" />
+    <ClCompile Include="View\NXDockWidget.cpp" />
+    <ClCompile Include="View\NXDockWidgetTabBar.cpp" />
+    <ClCompile Include="View\NXDockWidgetTabButton.cpp" />
+    <ClCompile Include="View\NXDockWidgetTitle.cpp" />
+    <ClCompile Include="View\NXMainWindow.cpp" />
+    <ClCompile Include="Model\NetDataListenerThread.cpp" />
+    <ClCompile Include="View\OPTView.cpp" />
+    <ClCompile Include="View\OptRuler.cpp" />
+    <ClCompile Include="Model\ScanCodeObj.cpp" />
+    <ClCompile Include="View\SeeView.cpp" />
+    <ClCompile Include="View\SeeViewGraphic.cpp" />
+    <ClCompile Include="View\SeeWidget.cpp" />
+    <ClCompile Include="View\SeeWidgetEL.cpp" />
+    <ClCompile Include="View\StartAction.cpp" />
+    <ClCompile Include="View\StateColor.cpp" />
+    <ClCompile Include="View\SysSetAction.cpp" />
+    <ClCompile Include="View\TabbedWidget.cpp" />
+    <ClCompile Include="View\TestForm.cpp" />
+    <ClCompile Include="View\TotalAction.cpp" />
+    <ClCompile Include="Model\TotolModel.cpp" />
+    <ClCompile Include="Model\WebEChartObj.cpp" />
+    <ClCompile Include="Model\WebServiceHelp.cpp" />
+    <ClCompile Include="Controller\WorkerOriSave.cpp" />
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="Model\qtsoap.cpp" />
+    <ClCompile Include="Controller\savewoker.cpp" />
+    <ClCompile Include="MesTool\soapC.cpp" />
+    <ClCompile Include="MesTool\soapClient.cpp" />
+    <ClCompile Include="MesTool\stdsoap2.cpp" />
+    <ClCompile Include="Controller\woker.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="View\AuthorityMes.h">
+    </QtMoc>
+    <QtMoc Include="View\CommandWidget.h">
+    </QtMoc>
+    <ClInclude Include="Model\ControlModel.h" />
+    <ClInclude Include="MesTool\CurlFtpHelper.h" />
+    <QtMoc Include="Controller\DebugController.h">
+    </QtMoc>
+    <QtMoc Include="View\DebugItemWidget.h">
+    </QtMoc>
+    <QtMoc Include="View\DebugSelectCirc.h">
+    </QtMoc>
+    <QtMoc Include="View\DebugSelectView.h">
+    </QtMoc>
+    <QtMoc Include="Model\DefectBtnModel.h">
+    </QtMoc>
+    <QtMoc Include="View\EFDrawWidget.h">
+    </QtMoc>
+    <QtMoc Include="View\EFStateBar.h">
+    </QtMoc>
+    <ClInclude Include="EFStringEL_Module.h" />
+    <ClInclude Include="EFStringEL_Plugin.h" />
+    <QtMoc Include="View\ELCmdAction.h">
+    </QtMoc>
+    <QtMoc Include="View\ELMainWindowObj.h">
+    </QtMoc>
+    <QtMoc Include="View\FileNameDialog.h">
+    </QtMoc>
+    <ClInclude Include="MesTool\JKMesClient.h" />
+    <QtMoc Include="Controller\LogicController.h">
+    </QtMoc>
+    <QtMoc Include="View\Login.h">
+    </QtMoc>
+    <QtMoc Include="View\LookCmdAction.h">
+    </QtMoc>
+    <QtMoc Include="View\LookMainWindowObj.h">
+    </QtMoc>
+    <QtMoc Include="View\MES_Dialog.h">
+    </QtMoc>
+    <QtMoc Include="View\MesLogin.h">
+    </QtMoc>
+    <QtMoc Include="Model\MesObj.h">
+    </QtMoc>
+    <QtMoc Include="View\NGDialog.h">
+    </QtMoc>
+    <QtMoc Include="View\NXDockWidget.h">
+    </QtMoc>
+    <QtMoc Include="View\NXDockWidgetTabBar.h">
+    </QtMoc>
+    <QtMoc Include="View\NXDockWidgetTabButton.h">
+    </QtMoc>
+    <QtMoc Include="View\NXDockWidgetTitle.h">
+    </QtMoc>
+    <QtMoc Include="View\NXMainWindow.h">
+    </QtMoc>
+    <QtMoc Include="Model\NetDataListenerThread.h">
+    </QtMoc>
+    <QtMoc Include="View\OPTView.h">
+    </QtMoc>
+    <QtMoc Include="View\OptRuler.h">
+    </QtMoc>
+    <QtMoc Include="Model\ScanCodeObj.h">
+    </QtMoc>
+    <QtMoc Include="View\SeeView.h">
+    </QtMoc>
+    <QtMoc Include="View\SeeViewGraphic.h">
+    </QtMoc>
+    <QtMoc Include="View\SeeWidget.h">
+    </QtMoc>
+    <QtMoc Include="View\SeeWidgetEL.h">
+    </QtMoc>
+    <ClInclude Include="MesTool\ServiceSoap.nsmap" />
+    <QtMoc Include="View\StartAction.h">
+    </QtMoc>
+    <QtMoc Include="View\StateColor.h">
+    </QtMoc>
+    <QtMoc Include="View\SysSetAction.h">
+    </QtMoc>
+    <QtMoc Include="View\TabbedWidget.h">
+    </QtMoc>
+    <QtMoc Include="View\TestForm.h">
+    </QtMoc>
+    <QtMoc Include="View\TotalAction.h">
+    </QtMoc>
+    <ClInclude Include="Model\TotolModel.h" />
+    <QtMoc Include="Model\WebEChartObj.h">
+    </QtMoc>
+    <QtMoc Include="Model\WebServiceHelp.h">
+    </QtMoc>
+    <QtMoc Include="Controller\WorkerOriSave.h">
+    </QtMoc>
+    <QtMoc Include="Model\qtsoap.h">
+    </QtMoc>
+    <QtMoc Include="Controller\savewoker.h">
+    </QtMoc>
+    <ClInclude Include="MesTool\soapH.h" />
+    <ClInclude Include="MesTool\soapStub.h" />
+    <ClInclude Include="MesTool\stdsoap2.h" />
+    <QtMoc Include="Controller\woker.h">
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <FileType>Document</FileType>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:strictStrings -Zc:throwingNew -Zi -MDd -GR -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E -Za $(QTDIR)\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Generate moc_predefs.h</Message>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">debug\moc_predefs.h;%(Outputs)</Outputs>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <FileType>Document</FileType>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:strictStrings -Zc:throwingNew -O2 -MD -GR -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E -Za $(QTDIR)\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Generate moc_predefs.h</Message>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">release\moc_predefs.h;%(Outputs)</Outputs>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </CustomBuild>
+    <ClInclude Include="ui_AuthorityMes.h" />
+    <ClInclude Include="ui_DebugSelectCirc.h" />
+    <ClInclude Include="ui_EFStateBar.h" />
+    <ClInclude Include="ui_ELCmdAction.h" />
+    <ClInclude Include="ui_FileNameDialog.h" />
+    <ClInclude Include="ui_Login.h" />
+    <ClInclude Include="ui_LookCmdAction.h" />
+    <ClInclude Include="ui_MES_Dialog.h" />
+    <ClInclude Include="ui_MesLogin.h" />
+    <ClInclude Include="ui_NGDialog.h" />
+    <ClInclude Include="ui_NXMainWindow.h" />
+    <ClInclude Include="ui_SeeWidget.h" />
+    <ClInclude Include="ui_SeeWidgetEL.h" />
+    <ClInclude Include="ui_StartAction.h" />
+    <ClInclude Include="ui_StateColor.h" />
+    <ClInclude Include="ui_SysSetAction.h" />
+    <ClInclude Include="ui_TestForm.h" />
+    <ClInclude Include="ui_TotalAction.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="View\AuthorityMes.ui">
+    </QtUic>
+    <QtUic Include="View\DebugSelectCirc.ui">
+    </QtUic>
+    <QtUic Include="View\EFStateBar.ui">
+    </QtUic>
+    <QtUic Include="View\ELCmdAction.ui">
+    </QtUic>
+    <QtUic Include="View\FileNameDialog.ui">
+    </QtUic>
+    <QtUic Include="View\Login.ui">
+    </QtUic>
+    <QtUic Include="View\LookCmdAction.ui">
+    </QtUic>
+    <QtUic Include="View\MES_Dialog.ui">
+    </QtUic>
+    <QtUic Include="View\MesLogin.ui">
+    </QtUic>
+    <QtUic Include="View\NGDialog.ui">
+    </QtUic>
+    <QtUic Include="View\NXMainWindow.ui">
+    </QtUic>
+    <QtUic Include="View\SeeWidget.ui">
+    </QtUic>
+    <QtUic Include="View\SeeWidgetEL.ui">
+    </QtUic>
+    <QtUic Include="View\StartAction.ui">
+    </QtUic>
+    <QtUic Include="View\StateColor.ui">
+    </QtUic>
+    <QtUic Include="View\SysSetAction.ui">
+    </QtUic>
+    <QtUic Include="View\TestForm.ui">
+    </QtUic>
+    <QtUic Include="View\TotalAction.ui">
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image\LOGO.png" />
+    <None Include="Resources\Image\bg.png" />
+    <None Include="Resources\Image\close_dockwidget_hover.png" />
+    <None Include="Resources\Image\close_dockwidget_normal.png" />
+    <None Include="Resources\Image\close_dockwidget_pressed.png" />
+    <None Include="Resources\Html\echarts.min.js" />
+    <None Include="Resources\Image\menu_dockwidget_hover.png" />
+    <None Include="Resources\Image\menu_dockwidget_normal.png" />
+    <None Include="Resources\Image\menu_dockwidget_pressed.png" />
+    <None Include="Resources\Html\pie.html" />
+    <None Include="Resources\Image\pin_dockwidget_hover.png" />
+    <None Include="Resources\Image\pin_dockwidget_normal.png" />
+    <None Include="Resources\Image\pin_dockwidget_pressed.png" />
+    <None Include="Resources\Html\qwebchannel.js" />
+    <QtRcc Include="resources.qrc">
+    </QtRcc>
+    <None Include="Resources\Image\save.png" />
+    <None Include="Resources\Image\saveother.png" />
+    <None Include="Resources\Image\start_0.png" />
+    <None Include="Resources\Image\start_1.png" />
+    <None Include="Resources\Image\stop_0.png" />
+    <None Include="Resources\Image\stop_1.png" />
+    <None Include="Resources\Image\unpin_dockwidget_hover.png" />
+    <None Include="Resources\Image\unpin_dockwidget_normal.png" />
+    <None Include="Resources\Image\unpin_dockwidget_pressed.png" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
+    <Import Project="$(QtMsBuild)\qt.targets" />
+  </ImportGroup>
+  <ImportGroup Label="ExtensionTargets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties UicDir=".\GeneratedFiles" RccDir=".\GeneratedFiles" Qt5Version_x0020_x64="msvc2015_64" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

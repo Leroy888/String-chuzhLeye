@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NXMainWindow</class>
+ <widget class="QMainWindow" name="NXMainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>960</width>
+    <height>720</height>
+   </rect>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>16777215</width>
+    <height>16777215</height>
+   </size>
+  </property>
+  <property name="contextMenuPolicy">
+   <enum>Qt::ActionsContextMenu</enum>
+  </property>
+  <property name="windowTitle">
+   <string>DockTest</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(54, 54, 54);
+color: rgb(200, 200, 200);</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>960</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="start">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="../resources.qrc">
+     <normaloff>:/Resources/Image/start_0.png</normaloff>
+     <normalon>:/Resources/Image/start_0.png</normalon>:/Resources/Image/start_0.png</iconset>
+   </property>
+   <property name="text">
+    <string>开启</string>
+   </property>
+   <property name="toolTip">
+    <string>开始启动</string>
+   </property>
+   <property name="shortcut">
+    <string>Backspace</string>
+   </property>
+  </action>
+  <action name="stop">
+   <property name="icon">
+    <iconset resource="../resources.qrc">
+     <normaloff>:/Resources/Image/stop_0.png</normaloff>
+     <normalon>:/Resources/Image/stop_0.png</normalon>:/Resources/Image/stop_0.png</iconset>
+   </property>
+   <property name="text">
+    <string>View File</string>
+   </property>
+   <property name="toolTip">
+    <string>停止</string>
+   </property>
+  </action>
+  <action name="action">
+   <property name="icon">
+    <iconset>
+     <normaloff>:/Resources/Image/sync.png</normaloff>:/Resources/Image/sync.png</iconset>
+   </property>
+   <property name="text">
+    <string>保存配置</string>
+   </property>
+   <property name="toolTip">
+    <string>保存配置</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="../resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

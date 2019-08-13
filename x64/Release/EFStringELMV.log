@@ -1,0 +1,487 @@
+﻿  Generate moc_predefs.h
+  Moc'ing View\AuthorityMes.h...
+  Moc'ing View\CommandWidget.h...
+  Moc'ing Controller\DebugController.h...
+  Moc'ing View\DebugItemWidget.h...
+  Moc'ing View\DebugSelectCirc.h...
+  Moc'ing View\DebugSelectView.h...
+  Moc'ing Model\DefectBtnModel.h...
+  Moc'ing View\EFDrawWidget.h...
+  Moc'ing View\EFStateBar.h...
+  Moc'ing View\ELCmdAction.h...
+  Moc'ing View\ELMainWindowObj.h...
+  Moc'ing View\FileNameDialog.h...
+  Moc'ing Controller\LogicController.h...
+  Moc'ing View\Login.h...
+  Moc'ing View\LookCmdAction.h...
+  Moc'ing View\LookMainWindowObj.h...
+  Moc'ing View\MES_Dialog.h...
+  Moc'ing View\MesLogin.h...
+  Moc'ing Model\MesObj.h...
+  Moc'ing View\NGDialog.h...
+  Moc'ing View\NXDockWidget.h...
+  Moc'ing View\NXDockWidgetTabBar.h...
+  Moc'ing View\NXDockWidgetTabButton.h...
+  Moc'ing View\NXDockWidgetTitle.h...
+  Moc'ing View\NXMainWindow.h...
+  Moc'ing Model\NetDataListenerThread.h...
+  Moc'ing View\OPTView.h...
+  Moc'ing View\OptRuler.h...
+  Moc'ing Model\ScanCodeObj.h...
+  Moc'ing View\SeeView.h...
+  Moc'ing View\SeeViewGraphic.h...
+  Moc'ing View\SeeWidget.h...
+  Moc'ing View\SeeWidgetEL.h...
+  Moc'ing View\StartAction.h...
+  Moc'ing View\StateColor.h...
+  Moc'ing View\SysSetAction.h...
+  Moc'ing View\TabbedWidget.h...
+  Moc'ing View\TestForm.h...
+  Moc'ing View\TotalAction.h...
+  Moc'ing Model\WebEChartObj.h...
+  Moc'ing Model\WebServiceHelp.h...
+  Moc'ing Controller\WorkerOriSave.h...
+  Moc'ing Model\qtsoap.h...
+  Moc'ing Controller\savewoker.h...
+  Moc'ing Controller\woker.h...
+  AuthorityMes.cpp
+  CommandWidget.cpp
+  ControlModel.cpp
+  CurlFtpHelper.cpp
+  DebugController.cpp
+  DebugItemWidget.cpp
+  DebugSelectCirc.cpp
+  DebugSelectView.cpp
+View\CommandWidget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+Controller\DebugController.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+Model\ControlModel.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+View\DebugItemWidget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+d:\code\efgui\efstringelmv\model\ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Model\ControlModel.cpp)
+d:\code\efgui\efstringelmv\view\DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugItemWidget.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Model\ControlModel.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugItemWidget.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugItemWidget.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 Controller\DebugController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 Controller\DebugController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+MesTool\CurlFtpHelper.cpp(152): warning C4100: “nTricks”: 未引用的形参
+MesTool\CurlFtpHelper.cpp(152): warning C4100: “nTimeOut”: 未引用的形参
+MesTool\CurlFtpHelper.cpp(152): warning C4100: “strLocalPath”: 未引用的形参
+MesTool\CurlFtpHelper.cpp(152): warning C4100: “strRemotePath”: 未引用的形参
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+View\CommandWidget.cpp(60): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+  DefectBtnModel.cpp
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\DebugController.cpp)
+  EFDrawWidget.cpp
+  EFStateBar.cpp
+View\EFStateBar.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+..\..\Dependencies\opencv\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+..\..\Dependencies\opencv\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+  EFStringEL_Module.cpp
+EFStringEL_Module.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+..\..\Dependencies\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+..\..\Dependencies\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+  EFStringEL_Plugin.cpp
+  ELCmdAction.cpp
+d:\code\efgui\efstringelmv\EFStringEL_Plugin.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+..\..\Dependencies\opencv\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+View\EFDrawWidget.cpp(58): warning C4100: “event”: 未引用的形参
+d:\code\efgui\efstringelmv\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+  ELMainWindowObj.cpp
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+View\ELMainWindowObj.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+d:\code\efgui\efstringelmv\view\ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+  FileNameDialog.cpp
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\EFStateBar.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\EFStateBar.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+..\..\Dependencies/common/crc32.hpp(60): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 EFStringEL_Plugin.cpp)
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\EFStateBar.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 EFStringEL_Module.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 EFStringEL_Module.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+d:\code\efgui\efstringelmv\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+d:\code\efgui\efstringelmv\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+d:\code\efgui\efstringelmv\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\ELCmdAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\ELCmdAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+..\..\EFComm/Unity/IOStruct.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\DebugSelectCirc.cpp)
+View\DebugSelectCirc.cpp(354): warning C4189: “nType”: 局部变量已初始化但不引用
+View\DebugSelectCirc.cpp(419): warning C4189: “bGet”: 局部变量已初始化但不引用
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELCmdAction.cpp)
+  JKMesClient.cpp
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\ELMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\ELMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+View\FileNameDialog.cpp(22): warning C4100: “arg1”: 未引用的形参
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 EFStringEL_Plugin.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 EFStringEL_Plugin.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+d:\code\efgui\efstringelmv\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+d:\code\efgui\efstringelmv\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Plugin.cpp)
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\ELMainWindowObj.cpp)
+  LogicController.cpp
+Controller\LogicController.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+..\..\EFComm\EFPluginModule\EFPlatform.h(60): warning C4005: “FORCEINLINE”: 宏重定义 (编译源文件 EFStringEL_Module.cpp)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnt.h(329): note: 参见“FORCEINLINE”的前一个定义 (编译源文件 EFStringEL_Module.cpp)
+..\..\EFComm/EFPluginModule/EFIToupCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 EFStringEL_Module.cpp)
+EFStringEL_Module.cpp(60): warning C4189: “df”: 局部变量已初始化但不引用
+View\ELMainWindowObj.cpp(87): warning C4100: “vecs”: 未引用的形参
+View\ELMainWindowObj.cpp(87): warning C4100: “nIndex”: 未引用的形参
+MesTool\JKMesClient.cpp(12): warning C4100: “strTestData”: 未引用的形参
+MesTool\JKMesClient.cpp(12): warning C4100: “strWorkCenterID”: 未引用的形参
+MesTool\JKMesClient.cpp(12): warning C4100: “strFtpAddr”: 未引用的形参
+MesTool\JKMesClient.cpp(49): warning C4100: “strLocalPath”: 未引用的形参
+  Login.cpp
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+  LookCmdAction.cpp
+View\LookCmdAction.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LookMainWindowObj.cpp
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 Controller\LogicController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 Controller\LogicController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+d:\code\efgui\efstringelmv\view\LookMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+  MES_Dialog.cpp
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+View\MES_Dialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\LogicController.cpp)
+  MesLogin.cpp
+  MesObj.cpp
+Model\MesObj.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  NGDialog.cpp
+View\NGDialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\LookCmdAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\LookCmdAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+d:\code\efgui\efstringelmv\model\WebServiceHelp.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Model\MesObj.cpp)
+  NXDockWidget.cpp
+d:\code\efgui\efguilib\tool\FastStr.h(25): warning C4100: “size”: 未引用的形参 (编译源文件 Controller\LogicController.cpp)
+d:\code\efgui\efguilib\tool\FastStr.h(27): warning C4100: “src”: 未引用的形参 (编译源文件 Controller\LogicController.cpp)
+d:\code\efgui\efguilib\tool\VarList.h(29): warning C4100: “size”: 未引用的形参 (编译源文件 Controller\LogicController.cpp)
+d:\code\efgui\efguilib\tool\VarList.h(31): warning C4100: “src”: 未引用的形参 (编译源文件 Controller\LogicController.cpp)
+..\EFGuiLib\Tool/Var.h(27): warning C4100: “size”: 未引用的形参 (编译源文件 Controller\LogicController.cpp)
+..\EFGuiLib\Tool/Var.h(29): warning C4100: “src”: 未引用的形参 (编译源文件 Controller\LogicController.cpp)
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookCmdAction.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+.\View/SeeWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\LookMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\LookMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\MES_Dialog.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\MES_Dialog.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\LookMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+View\NGDialog.cpp(42): warning C4189: “nCmds”: 局部变量已初始化但不引用
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\MES_Dialog.cpp)
+  NXDockWidgetTabBar.cpp
+Controller\LogicController.cpp(506): warning C4100: “header”: 未引用的形参
+Controller\LogicController.cpp(801): warning C4100: “nSerial”: 未引用的形参
+Controller\LogicController.cpp(932): warning C4100: “n”: 未引用的形参
+Controller\LogicController.cpp(1007): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+Controller\LogicController.cpp(1011): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+Controller\LogicController.cpp(1072): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  NXDockWidgetTabButton.cpp
+  NXDockWidgetTitle.cpp
+  NXMainWindow.cpp
+View\NXMainWindow.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  NetDataListenerThread.cpp
+  OPTView.cpp
+  OptRuler.cpp
+View\OptRuler.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\efgui\efstringelmv\view\OptRuler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\OptRuler.cpp)
+  ScanCodeObj.cpp
+  SeeView.cpp
+View\SeeView.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  SeeViewGraphic.cpp
+  SeeWidget.cpp
+d:\code\efgui\efstringelmv\view\SeeWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SeeWidget.cpp)
+View\OptRuler.cpp(41): warning C4100: “event”: 未引用的形参
+  SeeWidgetEL.cpp
+  StartAction.cpp
+  StateColor.cpp
+  SysSetAction.cpp
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SeeView.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SeeWidget.cpp)
+View\SeeView.cpp(127): warning C4100: “event”: 未引用的形参
+View\SeeView.cpp(256): warning C4100: “event”: 未引用的形参
+  TabbedWidget.cpp
+d:\code\efgui\efstringelmv\view\OptRuler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SeeWidgetEL.cpp)
+View\TabbedWidget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+View\SeeWidgetEL.cpp(21): warning C4100: “nStep”: 未引用的形参
+d:\code\efgui\efstringelmv\view\OptRuler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SeeWidget.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\StartAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\StartAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\StartAction.cpp)
+  TestForm.cpp
+  TotalAction.cpp
+View\TotalAction.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TotolModel.cpp
+  WebEChartObj.cpp
+d:\code\efgui\efstringelmv\model\WebEChartObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Model\WebEChartObj.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\SysSetAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 View\SysSetAction.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+  WebServiceHelp.cpp
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 View\SysSetAction.cpp)
+d:\code\efgui\efstringelmv\model\WebServiceHelp.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Model\WebServiceHelp.cpp)
+d:\code\efgui\efguilib\tool\FastStr.h(25): warning C4100: “size”: 未引用的形参 (编译源文件 Model\TotolModel.cpp)
+d:\code\efgui\efguilib\tool\FastStr.h(27): warning C4100: “src”: 未引用的形参 (编译源文件 Model\TotolModel.cpp)
+View\TabbedWidget.cpp(79): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\efgui\efguilib\tool\VarList.h(29): warning C4100: “size”: 未引用的形参 (编译源文件 Model\TotolModel.cpp)
+d:\code\efgui\efguilib\tool\VarList.h(31): warning C4100: “src”: 未引用的形参 (编译源文件 Model\TotolModel.cpp)
+..\EFGuiLib\Tool/Var.h(27): warning C4100: “size”: 未引用的形参 (编译源文件 Model\TotolModel.cpp)
+..\EFGuiLib\Tool/Var.h(29): warning C4100: “src”: 未引用的形参 (编译源文件 Model\TotolModel.cpp)
+  WorkerOriSave.cpp
+  dllmain.cpp
+View\SysSetAction.cpp(97): warning C4100: “arg1”: 未引用的形参
+  qtsoap.cpp
+  savewoker.cpp
+  soapC.cpp
+  soapClient.cpp
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+  stdsoap2.cpp
+  woker.cpp
+Controller\woker.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\efgui\efstringelmv\controller\woker.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+  moc_AuthorityMes.cpp
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 Controller\WorkerOriSave.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 Controller\WorkerOriSave.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+  moc_CommandWidget.cpp
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\WorkerOriSave.cpp)
+  moc_DebugController.cpp
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+d:\code\efgui\efstringelmv\generatedfiles\release\../../Controller/DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+..\..\Dependencies\opencv\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+  moc_DebugItemWidget.cpp
+..\..\Dependencies\opencv\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+d:\code\efgui\efstringelmv\generatedfiles\release\../../View/DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugItemWidget.cpp)
+..\..\Dependencies\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+..\..\Dependencies\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+  moc_DebugSelectCirc.cpp
+  moc_DebugSelectView.cpp
+d:\code\efgui\efstringelmv\generatedfiles\release\../../View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugSelectCirc.cpp)
+..\..\Dependencies\opencv\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+  moc_DefectBtnModel.cpp
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+  moc_EFDrawWidget.cpp
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugController.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugItemWidget.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugItemWidget.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 Controller\woker.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 Controller\woker.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+  moc_EFStateBar.cpp
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugSelectCirc.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugSelectCirc.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugSelectCirc.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_DebugSelectCirc.cpp)
+  moc_ELCmdAction.cpp
+  moc_ELMainWindowObj.cpp
+d:\code\efgui\efstringelmv\generatedfiles\release\../../View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_ELMainWindowObj.cpp)
+  moc_FileNameDialog.cpp
+  moc_LogicController.cpp
+  moc_Login.cpp
+..\..\EFComm/Unity/IOStruct.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Controller\woker.cpp)
+  moc_LookCmdAction.cpp
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_ELMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 .\GeneratedFiles\Release\moc_ELMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 .\GeneratedFiles\Release\moc_ELMainWindowObj.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_ELMainWindowObj.cpp)
+  moc_LookMainWindowObj.cpp
+d:\code\efgui\efstringelmv\generatedfiles\release\../../View/LookMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LookMainWindowObj.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_ELMainWindowObj.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_ELMainWindowObj.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_ELMainWindowObj.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_ELMainWindowObj.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+  moc_MES_Dialog.cpp
+  moc_MesLogin.cpp
+  moc_MesObj.cpp
+  moc_NGDialog.cpp
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LogicController.cpp)
+.\View/SeeWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LookMainWindowObj.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_LookMainWindowObj.cpp)
+  moc_NXDockWidget.cpp
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+..\..\EFComm/EFPluginModule/EFIMindVisionCameraModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+d:\code\efgui\efstringelmv\controller\DebugController.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+  moc_NXDockWidgetTabBar.cpp
+  moc_NXDockWidgetTabButton.cpp
+  moc_NXDockWidgetTitle.cpp
+..\EFGuiLib\EFProperty/EFPropertyView.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(28): warning C4100: “pRoot”: 未引用的形参 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+..\EFGuiLib\EFProperty/EFPropertyView.h(30): warning C4100: “pRoot”: 未引用的形参 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+..\EFGuiLib\EFProperty/EFPropertyParser.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+.\View/DebugSelectCirc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+  moc_NXMainWindow.cpp
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+.\View/ELMainWindowObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_MES_Dialog.cpp)
+  moc_NetDataListenerThread.cpp
+  moc_OPTView.cpp
+  moc_OptRuler.cpp
+  moc_ScanCodeObj.cpp
+  moc_SeeView.cpp
+d:\code\efgui\efstringelmv\generatedfiles\release\../../View/OptRuler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_OptRuler.cpp)
+  moc_SeeViewGraphic.cpp
+  moc_SeeWidget.cpp
+d:\code\efgui\efstringelmv\generatedfiles\release\../../View/SeeWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_SeeWidget.cpp)
+  moc_SeeWidgetEL.cpp
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_SeeView.cpp)
+  moc_StartAction.cpp
+  moc_StateColor.cpp
+  moc_SysSetAction.cpp
+  moc_TabbedWidget.cpp
+  moc_TestForm.cpp
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_SeeWidget.cpp)
+  moc_TotalAction.cpp
+  moc_WebEChartObj.cpp
+d:\code\efgui\efstringelmv\generatedfiles\release\../../Model/WebEChartObj.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_WebEChartObj.cpp)
+.\Model/ControlModel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_SysSetAction.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_SysSetAction.cpp)
+d:\code\efgui\efstringelmv\view\DebugItemWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_SysSetAction.cpp)
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_SysSetAction.cpp)
+  moc_WebServiceHelp.cpp
+d:\code\efgui\efstringelmv\generatedfiles\release\../../Model/WebServiceHelp.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_WebServiceHelp.cpp)
+  moc_WorkerOriSave.cpp
+  moc_qtsoap.cpp
+  moc_savewoker.cpp
+  moc_woker.cpp
+d:\code\efgui\efstringelmv\generatedfiles\release\../../Controller/woker.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_woker.cpp)
+  qrc_resources.cpp
+..\..\EFComm/EFPluginModule/EFIAlg230WModule.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_woker.cpp)
+..\..\EFComm/Unity/IOTPPublic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_woker.cpp)
+..\..\Dependencies\opencv\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_woker.cpp)
+..\..\Dependencies\opencv\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_woker.cpp)
+..\..\Dependencies\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_woker.cpp)
+..\..\Dependencies\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_woker.cpp)
+..\..\Dependencies\opencv\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_woker.cpp)
+    正在创建库 ..\..\_Out\Release\\EFStringEL.lib 和对象 ..\..\_Out\Release\\EFStringEL.exp
+  EFStringELMV.vcxproj -> D:\code\EFGui\EFStringELMV\..\..\_Out\Release\EFStringEL.dll
