@@ -30,6 +30,7 @@
 #include "MesTool/CurlFtpHelper.h"
 #include "MesTool/JKMesClient.h"
 #include "ai_save_work.h"
+#include <QSettings>
 
 #include "View/ELCmdAction.h"
 //
@@ -157,6 +158,8 @@ public:
     void PLC_Right_Cylinder_Clamp(bool n);
     void PLC_Start_Up(bool n);
     void PLC_start();
+
+    bool getIsAutoJudge();
 private:
    // void    OnDrawELImage(int nIndex);
 
@@ -218,6 +221,7 @@ private:
     //区分人工按下OKNG按钮，还是AI按下OKNG按钮
     //人工按下硬件按钮OKNG标记 = true
     bool m_AI_btn = false;
+
 
 //model
 private:
@@ -378,6 +382,7 @@ private:
       bool m_isOther;//AI判断是否为其他
 
       QTimer *elCmdTimer;
+      bool m_isAutoJudge;
 };
 
 #endif // LOGICCONTROLLER_H

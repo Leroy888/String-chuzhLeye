@@ -832,6 +832,11 @@ void LogicController::PLC_start()
     m_ELUIObj.OnSetTextInfo(true, "PLC一键拍照");
 }
 
+bool LogicController::getIsAutoJudge()
+{
+    return m_isAutoJudge;
+}
+
 void LogicController::PLC_Left_Cylinder_down(bool n)  //左下压
 {
     if(n)
@@ -1250,7 +1255,11 @@ void LogicController::SlotImage(const QImage &image, bool bOK, vector<string> El
     m_ELUIObj.OnUpDateImage(&m_ElImage, m_SAB=="A");
     //  OnAi_save(m_ElImage,ElDefect,ElPosition,nIndex);
   //  OnAidefect(bOK);  //Ai自动分选,注释掉，添加一个定时器调用该函数，是为了实现，3~5秒后，没有人工判断的情况下，定时器启动，调用该函数实现自动判断
-    elCmdTimer->start(0.5);
+    QSettings setting("mySettings.ini");
+    int secs = setting.value("waitSecs").toInt();
+    m_ELUIObj.OnSetTextInfo(true, QString("Wait time = ")+ QString::number(secs));
+    elCmdTimer->start(secs);
+    m_isAutoJudge = false;
 }
 
 void LogicController::mkdir_path(QString path)   //
@@ -1337,6 +1346,8 @@ void LogicController::OnAi_save(const QImage &image, vector<string> ElDefect, ve
 
     StringEL_ID = el_path +"/"+FacilityId+"_"+StringEL_ID;
 
+    QString TotalCSV_Path = StringEL_ID + + "/"+ "TotalTable.csv"; //误判漏判路径
+
     QString totalPath = StringEL_ID + "/";
 
     QString strNgDefPath = "";
@@ -1406,6 +1417,51 @@ void LogicController::OnAi_save(const QImage &image, vector<string> ElDefect, ve
     thd->setSAB(m_SAB);
     thd->setStringNum(QString::number(AI_EL_num));
     thd->start();
+
+    if(!m_isAutoJudge)
+    {
+        //AI_OK=AI结果   isOK=人工结果
+        //AI和人工硬件按钮都打开时，AI和人工对比，否则只记录OKNG数据
+        if(pObj->GetValue("AI_Open").GetString() == std::string("TRUE"))
+        {
+            if(AI_OK==true && isOk==false && m_AI_btn==true)//AI结果OK 人工结果NG  AI漏检
+            {
+                m_ELUIObj.onTotalMissNum();
+
+                m_okNum = m_ELUIObj.getOkNum();
+                m_ngNum = m_ELUIObj.getNgNum();
+                m_missNum = m_ELUIObj.getMissNum();
+                m_errorNum = m_ELUIObj.getErrorNum();
+
+                OnUpdateRate();
+
+                ExcelThread *thd = new ExcelThread(AI_OK, m_okNum, m_ngNum, m_errorNum, m_missNum, TotalCSV_Path);
+                thd->start();
+                QStringList strArgs;
+                strArgs<<"AI_MissJudge";
+                OnSaveWPEL(3, strArgs);
+                m_ELUIObj.OnSetTextInfo(true, QString("On Btn Clicked AI Missed"));
+            }
+            else if(AI_OK==false && isOk==true && m_AI_btn==true)//AI结果NG 人工结果OK  AI误判
+            {
+                m_ELUIObj.onTotalErrorNum();
+
+                m_okNum = m_ELUIObj.getOkNum();
+                m_ngNum = m_ELUIObj.getNgNum();
+                m_missNum = m_ELUIObj.getMissNum();
+                m_errorNum = m_ELUIObj.getErrorNum();
+
+                OnUpdateRate();
+
+                ExcelThread *thd = new ExcelThread(AI_OK, m_okNum, m_ngNum, m_errorNum, m_missNum, TotalCSV_Path);//将数据保存到excel
+                thd->start();
+                QStringList strArgs;
+                strArgs<<"WJ";
+                OnSaveWPEL(4, strArgs);
+                m_ELUIObj.OnSetTextInfo(true, QString("On Btn Clicked AI Error"));
+            }
+        }
+    }
 
 
     /*
@@ -1719,6 +1775,7 @@ void LogicController::OnAidefect( )
     AI_OK = m_bAi_Ok;//false = AI返回NG
     // 关闭是否启动自动分选定时器
     elCmdTimer->stop();
+    m_isAutoJudge = true;
 
     //    if(pObj->GetValue("EL_automatic").GetString() == std::string("TRUE"))//
     //    {

@@ -713,9 +713,44 @@ debug\moc_DebugController.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QObj
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -871,9 +906,44 @@ debug\moc_LogicController.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QObj
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -889,8 +959,6 @@ debug\moc_LogicController.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QObj
 		View\EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View\StartAction.h \
 		View\SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -906,8 +974,6 @@ debug\moc_LogicController.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QObj
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -3300,16 +3366,49 @@ debug\moc_ELMainWindowObj.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QObj
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		View\NXDockWidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDockWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdockwidget.h \
 		View\SeeWidgetEL.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		View\EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
 		View\StartAction.h \
@@ -3339,8 +3438,6 @@ debug\moc_ELMainWindowObj.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QObj
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -3789,11 +3886,46 @@ debug\moc_LookMainWindowObj.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QO
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		View\NXDockWidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDockWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdockwidget.h \
 		View\SeeWidget.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\..\EFComm\Unity\IOTPPublic.h \
 		View\LookMainWindowObj.h \
 		debug\moc_predefs.h \
@@ -4556,6 +4688,42 @@ debug\moc_NXMainWindow.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMai
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		View\NXMainWindow.h \
 		debug\moc_predefs.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\bin\moc.exe
@@ -6029,9 +6197,44 @@ debug\moc_MES_Dialog.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialo
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -6047,8 +6250,6 @@ debug\moc_MES_Dialog.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialo
 		View\EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View\StartAction.h \
 		View\SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -6062,8 +6263,6 @@ debug\moc_MES_Dialog.cpp: C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialo
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -6667,9 +6866,44 @@ debug\EFStringEL_Module.obj: EFStringEL_Module.cpp EFStringEL_Module.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -6685,8 +6919,6 @@ debug\EFStringEL_Module.obj: EFStringEL_Module.cpp EFStringEL_Module.h \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -6702,8 +6934,6 @@ debug\EFStringEL_Module.obj: EFStringEL_Module.cpp EFStringEL_Module.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -6737,13 +6967,6 @@ debug\EFStringEL_Module.obj: EFStringEL_Module.cpp EFStringEL_Module.h \
 		..\..\EFComm\EFPluginModule\EFPlatform.h \
 		..\..\Dependencies\common\lexical_cast.hpp \
 		..\..\EFComm\EFPluginModule\EFIToupCameraModule.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
 		Model/DefectBtnModel.h \
 		View/MesLogin.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QDebug
@@ -6892,9 +7115,44 @@ debug\EFStringEL_Plugin.obj: EFStringEL_Plugin.cpp EFStringEL_Plugin.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -6910,8 +7168,6 @@ debug\EFStringEL_Plugin.obj: EFStringEL_Plugin.cpp EFStringEL_Plugin.h \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -6927,8 +7183,6 @@ debug\EFStringEL_Plugin.obj: EFStringEL_Plugin.cpp EFStringEL_Plugin.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -7066,9 +7320,44 @@ debug\DebugController.obj: Controller\DebugController.cpp Controller/DebugContro
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -7098,8 +7387,6 @@ debug\DebugController.obj: Controller\DebugController.cpp Controller/DebugContro
 		..\EFGuiLib\Tool\TreeNode.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMessageBox \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmessagebox.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdialog.h \
@@ -7110,21 +7397,6 @@ debug\DebugController.obj: Controller\DebugController.cpp Controller/DebugContro
 		..\EFGuiLib\EFProperty\EFTreeView.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTreeView \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtreeview.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QMap \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\QStandardItemModel \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qstandarditemmodel.h \
@@ -7317,9 +7589,44 @@ debug\LogicController.obj: Controller\LogicController.cpp Controller/LogicContro
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -7335,8 +7642,6 @@ debug\LogicController.obj: Controller\LogicController.cpp Controller/LogicContro
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -7352,8 +7657,6 @@ debug\LogicController.obj: Controller\LogicController.cpp Controller/LogicContro
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -7544,7 +7847,6 @@ debug\LogicController.obj: Controller\LogicController.cpp Controller/LogicContro
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtNetwork\QNetworkReply \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtNetwork\qnetworkreply.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QIODevice \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtNetwork\QNetworkRequest \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtNetwork\qnetworkrequest.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QUrl \
@@ -7901,9 +8203,44 @@ debug\woker.obj: Controller\woker.cpp Controller/woker.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -7919,8 +8256,6 @@ debug\woker.obj: Controller\woker.cpp Controller/woker.h \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -7936,8 +8271,6 @@ debug\woker.obj: Controller\woker.cpp Controller/woker.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -8112,9 +8445,44 @@ debug\ai_save_work.obj: Controller\ai_save_work.cpp Controller/ai_save_work.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -8130,8 +8498,6 @@ debug\ai_save_work.obj: Controller\ai_save_work.cpp Controller/ai_save_work.h \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -8147,8 +8513,6 @@ debug\ai_save_work.obj: Controller\ai_save_work.cpp Controller/ai_save_work.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -8304,9 +8668,44 @@ debug\WorkerOriSave.obj: Controller\WorkerOriSave.cpp Controller/WorkerOriSave.h
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -8322,8 +8721,6 @@ debug\WorkerOriSave.obj: Controller\WorkerOriSave.cpp Controller/WorkerOriSave.h
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -8339,8 +8736,6 @@ debug\WorkerOriSave.obj: Controller\WorkerOriSave.cpp Controller/WorkerOriSave.h
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -10154,6 +10549,48 @@ debug\DebugSelectCirc.obj: View\DebugSelectCirc.cpp View/DebugSelectCirc.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVector \
 		..\..\EFComm\EFPluginModule\EFIAlg2000WModule.h \
 		ui_DebugSelectCirc.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QSpacerItem \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QFileDialog \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qfiledialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qdir.h \
@@ -10613,6 +11050,56 @@ debug\EFStateBar.obj: View\EFStateBar.cpp View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvector2d.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtouchdevice.h \
 		ui_EFStateBar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QFrame \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLabel \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlabel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLineEdit \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlineedit.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QSpacerItem \
 		..\EFGuiLib\Tool\TranslationES.h \
 		..\EFGuiLib\Tool\IController.h \
 		..\EFGuiLib\Tool\Entity.h \
@@ -10645,9 +11132,12 @@ debug\EFStateBar.obj: View\EFStateBar.cpp View/EFStateBar.h \
 		View/NXMainWindow.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMainWindow \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmainwindow.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
@@ -10664,16 +11154,11 @@ debug\EFStateBar.obj: View\EFStateBar.cpp View/EFStateBar.h \
 		View/SeeWidgetEL.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsettings.h \
 		View/ELCmdAction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
 		View/NGDialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialog \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdialog.h \
@@ -10681,13 +11166,7 @@ debug\EFStateBar.obj: View\EFStateBar.cpp View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
 		View/TotalAction.h \
 		View/ELTotal.h \
 		Model/MesObj.h \
@@ -10823,6 +11302,50 @@ debug\ELCmdAction.obj: View\ELCmdAction.cpp View/ELCmdAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSignalMapper \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		ui_ELCmdAction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLineEdit \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlineedit.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QFileDialog \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qfiledialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qdir.h \
@@ -10858,8 +11381,12 @@ debug\ELCmdAction.obj: View\ELCmdAction.cpp View/ELCmdAction.h \
 		View/NXMainWindow.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMainWindow \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmainwindow.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
@@ -10877,21 +11404,13 @@ debug\ELCmdAction.obj: View\ELCmdAction.cpp View/ELCmdAction.h \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsettings.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
 		View/TotalAction.h \
 		View/ELTotal.h \
 		Model/MesObj.h \
@@ -11024,16 +11543,49 @@ debug\ELMainWindowObj.obj: View\ELMainWindowObj.cpp View/ELMainWindowObj.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		View/NXDockWidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDockWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdockwidget.h \
 		View/SeeWidgetEL.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
 		View/StartAction.h \
@@ -11063,8 +11615,6 @@ debug\ELMainWindowObj.obj: View\ELMainWindowObj.cpp View/ELMainWindowObj.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -11221,7 +11771,49 @@ debug\FileNameDialog.obj: View\FileNameDialog.cpp View/FileNameDialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qfiledevice.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvector2d.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtouchdevice.h \
-		ui_FileNameDialog.h
+		ui_FileNameDialog.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialogButtonBox \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdialogbuttonbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLabel \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlabel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLineEdit \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlineedit.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h
 
 debug\Login.obj: View\Login.cpp View/Login.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialog \
@@ -11327,6 +11919,57 @@ debug\Login.obj: View\Login.cpp View/Login.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvector2d.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtouchdevice.h \
 		ui_Login.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLabel \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlabel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLineEdit \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlineedit.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QSpacerItem \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMessageBox \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmessagebox.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\QPalette
@@ -11443,6 +12086,49 @@ debug\LookCmdAction.obj: View\LookCmdAction.cpp View/LookCmdAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialog \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdialog.h \
 		ui_LookCmdAction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLineEdit \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlineedit.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		Controller/LogicController.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QObject \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QTime \
@@ -11474,8 +12160,12 @@ debug\LookCmdAction.obj: View\LookCmdAction.cpp View/LookCmdAction.h \
 		View/NXMainWindow.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMainWindow \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmainwindow.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
@@ -11493,8 +12183,6 @@ debug\LookCmdAction.obj: View\LookCmdAction.cpp View/LookCmdAction.h \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -11502,13 +12190,7 @@ debug\LookCmdAction.obj: View\LookCmdAction.cpp View/LookCmdAction.h \
 		View/ELCmdAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
 		View/TotalAction.h \
 		View/ELTotal.h \
 		Model/MesObj.h \
@@ -11643,11 +12325,46 @@ debug\LookMainWindowObj.obj: View\LookMainWindowObj.cpp View/LookMainWindowObj.h
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		View/NXDockWidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDockWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdockwidget.h \
 		View/SeeWidget.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\..\EFComm\Unity\IOTPPublic.h \
 		..\EFGuiLib\Tool\TranslationES.h \
 		..\EFGuiLib\Tool\IController.h \
@@ -11690,8 +12407,6 @@ debug\LookMainWindowObj.obj: View\LookMainWindowObj.cpp View/LookMainWindowObj.h
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -11707,8 +12422,6 @@ debug\LookMainWindowObj.obj: View\LookMainWindowObj.cpp View/LookMainWindowObj.h
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -11843,6 +12556,56 @@ debug\MesLogin.obj: View\MesLogin.cpp View/MesLogin.h \
 		Model/MesObj.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QObject \
 		ui_MesLogin.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLabel \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlabel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLineEdit \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlineedit.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QSpacerItem \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMessageBox \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmessagebox.h
 
@@ -11949,7 +12712,50 @@ debug\NGDialog.obj: View\NGDialog.cpp View/NGDialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qfiledevice.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvector2d.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtouchdevice.h \
-		ui_NGDialog.h
+		ui_NGDialog.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QSpacerItem \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout
 
 debug\NXDockWidget.obj: View\NXDockWidget.cpp View/NXDockWidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDockWidget \
@@ -12069,14 +12875,21 @@ debug\NXDockWidget.obj: View\NXDockWidget.cpp View/NXDockWidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmainwindow.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		ui_NXMainWindow.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QListView \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlistview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
@@ -12091,12 +12904,22 @@ debug\NXDockWidget.obj: View\NXDockWidget.cpp View/NXDockWidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QListView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlistview.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlistwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qtimer.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qbasictimer.h \
@@ -12220,6 +13043,40 @@ debug\NXDockWidgetTabBar.obj: View\NXDockWidgetTabBar.cpp View/NXDockWidgetTabBa
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmainwindow.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLayout \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
@@ -12337,12 +13194,47 @@ debug\NXDockWidgetTabButton.obj: View\NXDockWidgetTabButton.cpp View/NXDockWidge
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmainwindow.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStylePainter \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstylepainter.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpainter.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QDebug
 
 debug\NXDockWidgetTitle.obj: View\NXDockWidgetTitle.cpp View/NXDockWidgetTitle.h \
@@ -12574,6 +13466,42 @@ debug\NXMainWindow.obj: View\NXMainWindow.cpp View/NXMainWindow.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		View/NXDockWidgetTabButton.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
@@ -12581,8 +13509,6 @@ debug\NXMainWindow.obj: View\NXMainWindow.cpp View/NXMainWindow.h \
 		View/NXDockWidgetTabBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/NXDockWidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDockWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdockwidget.h \
@@ -13026,7 +13952,46 @@ debug\SeeWidget.obj: View\SeeWidget.cpp View/SeeWidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvector2d.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtouchdevice.h \
 		..\..\EFComm\Unity\IOTPPublic.h \
-		ui_SeeWidget.h
+		ui_SeeWidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout
 
 debug\StartAction.obj: View\StartAction.cpp View/StartAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
@@ -13131,6 +14096,46 @@ debug\StartAction.obj: View\StartAction.cpp View/StartAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvector2d.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtouchdevice.h \
 		ui_StartAction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
 		Controller/LogicController.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QObject \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QTime \
@@ -13162,9 +14167,12 @@ debug\StartAction.obj: View\StartAction.cpp View/StartAction.h \
 		View/NXMainWindow.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMainWindow \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmainwindow.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
@@ -13182,15 +14190,10 @@ debug\StartAction.obj: View\StartAction.cpp View/StartAction.h \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsettings.h \
 		View/ELCmdAction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
 		View/NGDialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialog \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdialog.h \
@@ -13198,8 +14201,6 @@ debug\StartAction.obj: View\StartAction.cpp View/StartAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -13337,7 +14338,43 @@ debug\StateColor.obj: View\StateColor.cpp View/StateColor.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLabel \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlabel.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
-		ui_StateColor.h
+		ui_StateColor.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h
 
 debug\SysSetAction.obj: View\SysSetAction.cpp View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
@@ -13456,6 +14493,54 @@ debug\SysSetAction.obj: View\SysSetAction.cpp View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsettings.h \
 		ui_SysSetAction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QCheckBox \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qcheckbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QComboBox \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qcombobox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLabel \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlabel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QDir \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qdir.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qfileinfo.h \
@@ -13483,9 +14568,12 @@ debug\SysSetAction.obj: View\SysSetAction.cpp View/SysSetAction.h \
 		View/NXMainWindow.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMainWindow \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmainwindow.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
@@ -13501,21 +14589,14 @@ debug\SysSetAction.obj: View\SysSetAction.cpp View/SysSetAction.h \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/ELCmdAction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
 		View/NGDialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialog \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSignalMapper \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -13767,7 +14848,43 @@ debug\TestForm.obj: View\TestForm.cpp View/TestForm.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QTimer \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qtimer.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qbasictimer.h \
-		ui_TestForm.h
+		ui_TestForm.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h
 
 debug\TotalAction.obj: View\TotalAction.cpp View/TotalAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
@@ -13874,6 +14991,51 @@ debug\TotalAction.obj: View\TotalAction.cpp View/TotalAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsettings.h \
 		ui_TotalAction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLCDNumber \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlcdnumber.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLabel \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlabel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QDateTime \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qdatetime.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QTextCodec \
@@ -14097,7 +15259,46 @@ debug\SeeWidgetEL.obj: View\SeeWidgetEL.cpp View/SeeWidgetEL.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qfiledevice.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvector2d.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtouchdevice.h \
-		ui_SeeWidgetEL.h
+		ui_SeeWidgetEL.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout
 
 debug\JKMesClient.obj: MesTool\JKMesClient.cpp MesTool/JKMesClient.h \
 		MesTool/stdsoap2.h \
@@ -14264,9 +15465,44 @@ debug\MES_Dialog.obj: View\MES_Dialog.cpp View/MES_Dialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
 		ui_NXMainWindow.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMenuBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenubar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmenu.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QStatusBar \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstatusbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		..\EFGuiLib\EFProperty\EFPropertyView.h \
 		..\EFGuiLib\EFProperty\EFPropertyParser.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGraphicsWidget \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicswidget.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgraphicslayoutitem.h \
@@ -14282,8 +15518,6 @@ debug\MES_Dialog.obj: View\MES_Dialog.cpp View/MES_Dialog.h \
 		View/EFStateBar.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QToolBar \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtoolbar.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
 		View/StartAction.h \
 		View/SysSetAction.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
@@ -14297,8 +15531,6 @@ debug\MES_Dialog.obj: View\MES_Dialog.cpp View/MES_Dialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsignalmapper.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QTextEdit \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtextedit.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
-		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextdocument.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
@@ -14327,6 +15559,12 @@ debug\MES_Dialog.obj: View\MES_Dialog.cpp View/MES_Dialog.h \
 		Model/sacsvstream.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QScopedPointer \
 		ui_MES_Dialog.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialogButtonBox \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdialogbuttonbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLabel \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlabel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLineEdit \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlineedit.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QFileDialog \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qfiledialog.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMessageBox \
@@ -14439,6 +15677,49 @@ debug\ELTotal.obj: View\ELTotal.cpp View/ELTotal.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QSettings \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qsettings.h \
 		ui_ELTotal.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QGridLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qgridlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlayoutitem.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qboxlayout.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHBoxLayout \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QPushButton \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qpushbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractbutton.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QSpacerItem \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QVBoxLayout \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QTextCodec \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qtextcodec.h
 
@@ -14670,6 +15951,46 @@ debug\AuthorityMes.obj: View\AuthorityMes.cpp View/AuthorityMes.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvector2d.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtouchdevice.h \
 		ui_AuthorityMes.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\QVariant \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QAction \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qaction.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qicon.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qactiongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QApplication \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qcoreapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qeventloop.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdesktopwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qguiapplication.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qinputmethod.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QButtonGroup \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qbuttongroup.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QDialogButtonBox \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qdialogbuttonbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QHeaderView \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qheaderview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemview.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractscrollarea.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qframe.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qabstractitemmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qitemselectionmodel.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractitemdelegate.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyleoption.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractspinbox.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qvalidator.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore\qregularexpression.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qabstractslider.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qstyle.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabbar.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qtabwidget.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qrubberband.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QLineEdit \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qlineedit.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextcursor.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextformat.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qpen.h \
+		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui\qtextoption.h \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\QMessageBox \
 		C:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets\qmessagebox.h
 
