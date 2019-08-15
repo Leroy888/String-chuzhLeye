@@ -19,6 +19,7 @@ SysSetAction::SysSetAction(QWidget *parent) :
     ui->setupUi(this);
     m_Model.OnLoad("cache.xml");
 
+    delaySecs = m_Set.value("DelaySecs").toInt();
     isYl = m_Set.value("IsYl").toBool();
     isXh = m_Set.value("IsXh").toBool();
     isOther = m_Set.value("IsOther").toBool();
@@ -26,6 +27,7 @@ SysSetAction::SysSetAction(QWidget *parent) :
     ui->checkBox_other->setChecked(isOther);
     ui->checkBox_XH->setChecked(isXh);
     ui->checkBox_YL->setChecked(isYl);
+    ui->spinBox->setValue(delaySecs);
 }
 
 SysSetAction::~SysSetAction()
@@ -64,6 +66,11 @@ bool SysSetAction::getIsXh()
 bool SysSetAction::getIsOther()
 {
     return isOther;
+}
+
+int SysSetAction::getDelaySecs()
+{
+    return delaySecs;
 }
 
 void SysSetAction::OnRefreshDir()
@@ -183,9 +190,6 @@ bool caseInsensitiveLessTha(const QString &s1, const QString &s2)
 }
 void SysSetAction::on_pushButton_clicked()
 {
-
-
-
     QStringList fileNameList = QFileDialog::getOpenFileNames(this, tr("open file"), " ",  tr("Allfile(*.*);;png(*.png);;jpg(*.jpg)"));
     if(fileNameList.count() != 4)
         return ;
@@ -357,4 +361,10 @@ void SysSetAction::on_checkBox_other_clicked()
         isOther = false;
     }
     m_Set.setValue("IsOther", isOther);
+}
+
+void SysSetAction::on_spinBox_valueChanged(int arg1)
+{
+    delaySecs = arg1;
+    m_Set.setValue("DelaySecs", delaySecs);
 }

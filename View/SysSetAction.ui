@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1092</width>
-    <height>154</height>
+    <width>1111</width>
+    <height>124</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -325,6 +325,19 @@ color: rgb(255, 255, 255);</string>
        </property>
        <property name="text">
         <string>其他</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="2">
+    <layout class="QVBoxLayout" name="verticalLayout_6">
+     <item>
+      <widget class="QSpinBox" name="spinBox">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 170, 0);
+color: rgb(255, 255, 255);
+font: 12pt &quot;Arial&quot;;</string>
        </property>
       </widget>
      </item>

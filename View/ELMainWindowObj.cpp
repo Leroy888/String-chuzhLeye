@@ -444,3 +444,8 @@ bool ELMainWindowObj::getIsOther()
 {
     return m_pSysAction->getIsOther();
 }
+
+int ELMainWindowObj::getDelaySecs()
+{
+    return m_pSysAction->getDelaySecs();
+}

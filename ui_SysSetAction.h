@@ -20,6 +20,7 @@
 #include <QtWidgets/QHeaderView>
 #include <QtWidgets/QLabel>
 #include <QtWidgets/QPushButton>
+#include <QtWidgets/QSpinBox>
 #include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
 
@@ -52,12 +53,14 @@ public:
     QCheckBox *checkBox_YL;
     QCheckBox *checkBox_XH;
     QCheckBox *checkBox_other;
+    QVBoxLayout *verticalLayout_6;
+    QSpinBox *spinBox;
 
     void setupUi(QWidget *SysSetAction)
     {
         if (SysSetAction->objectName().isEmpty())
             SysSetAction->setObjectName(QStringLiteral("SysSetAction"));
-        SysSetAction->resize(1092, 154);
+        SysSetAction->resize(1111, 124);
         gridLayout = new QGridLayout(SysSetAction);
         gridLayout->setObjectName(QStringLiteral("gridLayout"));
         horizontalLayout = new QHBoxLayout();
@@ -228,6 +231,19 @@ public:
 
 
         gridLayout->addLayout(verticalLayout_5, 0, 1, 1, 1);
+
+        verticalLayout_6 = new QVBoxLayout();
+        verticalLayout_6->setObjectName(QStringLiteral("verticalLayout_6"));
+        spinBox = new QSpinBox(SysSetAction);
+        spinBox->setObjectName(QStringLiteral("spinBox"));
+        spinBox->setStyleSheet(QLatin1String("background-color: rgb(0, 170, 0);\n"
+"color: rgb(255, 255, 255);\n"
+"font: 12pt \"Arial\";"));
+
+        verticalLayout_6->addWidget(spinBox);
+
+
+        gridLayout->addLayout(verticalLayout_6, 0, 2, 1, 1);
 
 
         retranslateUi(SysSetAction);

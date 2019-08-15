@@ -30,6 +30,7 @@ public:
     bool getIsYl();
     bool getIsXh();
     bool getIsOther();
+    int getDelaySecs();
 private:
 
     void    OnRefreshDir();
@@ -68,6 +69,8 @@ private slots:
 
     void on_checkBox_other_clicked();
 
+    void on_spinBox_valueChanged(int arg1);
+
 private:
     Ui::SysSetAction *ui;
     LogicController *   m_pController;
@@ -81,6 +84,7 @@ private:
     bool isXh;
     bool isOther;
     QSettings m_Set;
+    int delaySecs;
 };
 
 #endif // SYSSETACTION_H

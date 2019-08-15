@@ -39,7 +39,9 @@ LogicController::LogicController(QObject *parent) : QObject(parent)
 {
     code_num = 0;
     lastHour = QTime::currentTime().hour();
-
+    QSettings setting("./mySettings.ini");
+    int secs = setting.value("waitSecs").toInt();
+    qDebug()<<"waitSecs          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   =    "<<secs;
     //    //20190802
     //    int EL_zoomw12 = m_pAlg230->Algimg_zoomw12(&m_ELData);
     //    m_ElImage = QImage(EL_zoomw12, 1200, QImage::Format_RGB888);
@@ -1255,8 +1257,8 @@ void LogicController::SlotImage(const QImage &image, bool bOK, vector<string> El
     m_ELUIObj.OnUpDateImage(&m_ElImage, m_SAB=="A");
     //  OnAi_save(m_ElImage,ElDefect,ElPosition,nIndex);
   //  OnAidefect(bOK);  //Ai自动分选,注释掉，添加一个定时器调用该函数，是为了实现，3~5秒后，没有人工判断的情况下，定时器启动，调用该函数实现自动判断
-    QSettings setting("mySettings.ini");
-    int secs = setting.value("waitSecs").toInt();
+
+    int secs = m_ELUIObj.getDelaySecs();
     m_ELUIObj.OnSetTextInfo(true, QString("Wait time = ")+ QString::number(secs));
     elCmdTimer->start(secs);
     m_isAutoJudge = false;

@@ -100,6 +100,7 @@ public:
     bool getIsYl();
     bool getIsXh();
     bool getIsOther();
+    int getDelaySecs();
 
     //设置条码
     void    OnSetBarCode(QString str);
